@@ -2,17 +2,17 @@ ByeByeLF takes text files with hard returns and 'repairs' them by removing hard 
 
 For instance: this file:
 
->
-The company was in the process
-of winding up, when in walked
-the executive.
-<
+[
+The company was in the process<br>
+of winding up, when in walked<br>
+the executive.<br>
+]
 
 Will be processed by ByeByeLF as:
 
->
+[
 The company was in the process of winding up, when in walked the executive.
-<
+]
 
 That's pretty much it.
 
