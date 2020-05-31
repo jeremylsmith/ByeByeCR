@@ -1,4 +1,6 @@
-ByeByeLF takes text files with hard returns and 'repairs' them by removing hard returns.
+# byebyelf
+
+ByeByeLF (Line Feeds) takes text files with hard returns and 'repairs' them by removing hard returns.
 
 For instance: this file:
 
